@@ -1,4 +1,4 @@
 # my-demo
 Additional demo repo. Containing some demo website.
 
-Changes to readme.
+Updates made on master on GitHub before rebase.
