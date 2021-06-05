@@ -3,6 +3,6 @@ Additional demo repo. Containing some demo website.
 
 Updates made on master on GitHub before rebase.
 
-## Conflicting changes
+## Repository Purpose
 
-Making some issues to learn conflicts
+This is a repo to learn Git
