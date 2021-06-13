@@ -8,3 +8,6 @@ Updates made on master on GitHub before rebase.
 This is a repo to learn Git
 
 Changes to readme file.
+
+## Getting started
+This is just a regular section
